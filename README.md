@@ -1,6 +1,6 @@
 # AngularTranslate
 
-Configuración de Angular para sportar multilenguaje i18n.
+Configuración de Angular para sportar multi -idioma i18n.
 
 http://localhost:4200/
 
